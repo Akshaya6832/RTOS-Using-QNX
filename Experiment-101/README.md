@@ -53,7 +53,7 @@ int main(void) {
 }
 ```
 ## Output
-![Output Screenshot](1.png)
+
 ---
 
 ## Result
