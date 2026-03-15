@@ -55,7 +55,7 @@ int main(void) {
 }
 ```
 ## Output
-![Output Image](101.png)
+![alt text](image.png)
 ---
 
 ## Result
